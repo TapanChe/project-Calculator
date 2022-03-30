@@ -1,20 +1,25 @@
-# Project - Calculator
+# Project - JavaScript calculator
+This calculator supports basic arithmetic
+calculations on integers. 
 
-======
+## Using
+- HTML
+- CSS
+- JavaScript - (NOT using eval() or function()).
 
 ## Logic
 
----
+-   [ ] User can see a display showing the current number entered or the
+result of the last operation.
+-   [ ] User can see an entry pad containing buttons for the digits 0-9, 
+operations - '+', '-', '/', '=' and a 'C' button (for Clear All).
 
-1. A display section where user inputs will be displayed.
-2. Numbers from 0 to 9
-3. 7 Operators: Addition, Subtraction, Multiplication, Division, Percentage, Square root & Power of
-4. Additional buttons:
+## Screenshot
 
-    ...Equal button to return the result.
+![Calculator-Img](calc-img.png)
 
-    ...Delete button to delete one digit at a time.
+## Future updates and current limitations
 
-    ...Dot (.) button to use decimal units in calculations.
-
-    ...C button to Clear All, to reset the calculator display.
+-   Use Keyboard for input method.
+-   Percentage calculations
+-   Delete button: clear last input.
