@@ -1,6 +1,6 @@
 # Project - JavaScript calculator
 This calculator supports basic arithmetic
-calculations on integers. 
+calculations.
 
 ## Using
 - HTML
